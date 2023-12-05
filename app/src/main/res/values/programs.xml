@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="program_names">
+        <item>Business Administration</item>
+        <item>Marketing Management</item>
+        <item>Finance and Accounting</item>
+        <item>Entrepreneurship</item>
+        <item>Human Resource Management</item>
+        <item>International Business</item>
+        <item>Supply Chain Management</item>
+        <item>Economics and Policy</item>
+        <item>Strategic Management</item>
+        <item>Digital Marketing</item>
+    </string-array>
+
+    <string-array name="program_descriptions">
+        <item>This program offers a comprehensive understanding of business concepts. Some of the key courses in SEM4 include:\n
+            \n1. Principles of Management\n
+            2. Business Ethics\n
+            3. Organizational Behavior\n
+            4. Managerial Accounting\n
+            5. Business Communication\n
+        </item>
+        <item>Explore the dynamic world of marketing and brand management. SEM4 courses cover:\n
+            \n1. Marketing Strategy\n
+            2. Consumer Behavior\n
+            3. Digital Marketing Techniques\n
+            4. Market Research\n
+            5. Brand Development\n
+        </item>
+        <item>Learn financial analysis, investment strategies, and accounting principles. SEM4 curriculum includes:\n
+            \n1. Financial Management\n
+            2. Managerial Economics\n
+            3. Financial Reporting\n
+            4. Corporate Finance\n
+            5. Auditing and Assurance\n
+        </item>
+        <item>Develop entrepreneurial skills and learn to bring innovative ideas to life. SEM4 focuses on:\n
+            \n1. Entrepreneurial Leadership\n
+            2. Innovation Management\n
+            3. Startup Fundamentals\n
+            4. Business Planning\n
+            5. Venture Capital and Funding\n
+        </item>
+        <item>Master the art of HR management, employee relations, and organizational development. SEM4 covers:\n
+            \n1. Human Resource Development\n
+            2. Employee Compensation\n
+            3. Performance Management\n
+            4. Labor Laws\n
+            5. Diversity and Inclusion\n
+        </item>
+        <item>Understand global business dynamics, international trade, and cross-cultural management. SEM4 includes:\n
+            \n1. International Marketing\n
+            2. Global Supply Chain\n
+            3. Cross-Cultural Management\n
+            4. International Trade Policies\n
+            5. Global Business Strategy\n
+        </item>
+        <item>Learn about logistics, operations, and supply chain optimization. SEM4 courses focus on:\n
+            \n1. Supply Chain Planning\n
+            2. Logistics Management\n
+            3. Inventory Control\n
+            4. Procurement\n
+            5. Lean Six Sigma\n
+        </item>
+        <item>Explore economic theories, policy analysis, and macroeconomic trends. SEM4 curriculum includes:\n
+            \n1. Macroeconomics\n
+            2. Microeconomic Analysis\n
+            3. Economic Policy\n
+            4. Development Economics\n
+            5. Quantitative Methods in Economics\n
+        </item>
+        <item>Develop strategic thinking and decision-making skills for business success. SEM4 covers:\n
+            \n1. Strategic Planning\n
+            2. Competitive Analysis\n
+            3. Business Model Innovation\n
+            4. Strategic Leadership\n
+            5. Change Management\n
+        </item>
+        <item>Focus on digital marketing strategies, social media, and online brand management. SEM4 includes:\n
+            \n1. Digital Marketing Channels\n
+            2. Social Media Advertising\n
+            3. Content Strategy\n
+            4. Influencer Marketing\n
+            5. Data Analytics in Digital Marketing\n
+        </item>
+    </string-array>
+</resources>
